@@ -125,9 +125,15 @@ If you'd like to collaborate or connect:
 
 ---
 
+## Screenshot
+<img width="1900" height="914" alt="Screenshot 2026-03-05 223620" src="https://github.com/user-attachments/assets/f8d7a6a7-4d4b-4e6a-8584-7d663e2fef87" />
+
+---
+
 ## ⭐ Support
 
 If you like this project, feel free to **star the repository**. It helps and motivates me to build more projects!
 
 ---
+
 
