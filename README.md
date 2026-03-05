@@ -37,7 +37,7 @@ The goal of this project is to:
 
 This project was built using modern web technologies.
 
-* **Frontend:** HTML / CSS / JavaScript / textscript
+* **Frontend:** HTML / CSS / JavaScript / Typescript
 * **Framework:** React / Next.js
 * **Styling:** Tailwind CSS
 * **Deployment:** Vercel
